@@ -1,0 +1,6 @@
+.nav-link{
+    color:brown !important;
+}
+.nav-link.active{
+    color:royalblue !important;
+}
